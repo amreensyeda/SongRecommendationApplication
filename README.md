@@ -23,7 +23,9 @@ This project is a Song Recommendation System that utilizes computer vision and m
   <li>Click the "Recommend me songs" button to receive song recommendations based on your current emotional state.</li>
 </ol>
 <h3>Screenshots</h3>
-![1](https://github.com/amreensyeda/SongRecommendationApplication/assets/132213704/7e616903-e95b-417f-9557-4618f40cdc4a)
+
+![4](https://github.com/amreensyeda/SongRecommendationApplication/assets/132213704/906d612f-2cde-4851-82be-79a8018faca2)
+
 
 
 
